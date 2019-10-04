@@ -1,10 +1,19 @@
 код hortonworks : : zookeeper-release-HDP-3.1.4.2-2-tag  
 https://github.com/hortonworks/zookeeper-release/tree/HDP-3.1.4.2-2-tag  
 
+Архитектура ZooKeeper  
+https://www.youtube.com/playlist?list=PLrTrFnOkIFb3vwhhPF8ShsS8kNsn8emtt  
+
+Профилирование JVM для BigData  
+https://www.youtube.com/playlist?list=PLrTrFnOkIFb2Xmx_xuNYsuR0UDGqccJnI  
+
+[_Zookeeper for Enterprise Architect] Архитектура Zookeeper  
+https://drive.google.com/drive/folders/1kS1VMu1yWk70R15A4g2jWfECHfnxIpRa  
+
 [Сделать обновление HDP & Ambari & других служб] Аудит установленных пакетов  
 https://docs.google.com/document/d/1RxK7codJ4Uvbzn10AJK_GyT1rCPtMTjoQzH3JUxj55s/  
 
-[Инфогра́фика сравнение Версий HDP] что нового в HDP 3.0 архитектуре (и какие версии Сервисы HDP обновлены)  
+[Инфогра́фика сравнение Версий HDP] что нового в HDP 3.1 архитектуре (и какие версии Сервисы HDP обновлены)  
 https://docs.google.com/document/d/1_wrgl8VhExWK8fKmr6Jxv6YEPhT9jXLxejIL72xDMVw/  
 
 For the latest information about ZooKeeper, please visit our website at:
