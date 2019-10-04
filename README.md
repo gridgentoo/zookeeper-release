@@ -1,11 +1,11 @@
 код hortonworks : : zookeeper-release-HDP-3.1.4.2-2-tag  
 https://github.com/hortonworks/zookeeper-release/tree/HDP-3.1.4.2-2-tag  
 
-[Сделать обновление HDP & Ambari & других служб] Аудит установленных пакетов
-https://docs.google.com/document/d/1RxK7codJ4Uvbzn10AJK_GyT1rCPtMTjoQzH3JUxj55s/
+[Сделать обновление HDP & Ambari & других служб] Аудит установленных пакетов  
+https://docs.google.com/document/d/1RxK7codJ4Uvbzn10AJK_GyT1rCPtMTjoQzH3JUxj55s/  
 
-[Инфогра́фика сравнение Версий HDP] что нового в HDP 3.0 архитектуре (и какие версии Сервисы HDP обновлены)
-https://docs.google.com/document/d/1_wrgl8VhExWK8fKmr6Jxv6YEPhT9jXLxejIL72xDMVw/
+[Инфогра́фика сравнение Версий HDP] что нового в HDP 3.0 архитектуре (и какие версии Сервисы HDP обновлены)  
+https://docs.google.com/document/d/1_wrgl8VhExWK8fKmr6Jxv6YEPhT9jXLxejIL72xDMVw/  
 
 For the latest information about ZooKeeper, please visit our website at:
 
